@@ -9,13 +9,11 @@
 
 - 📫 How to reach me **talhakhadim98@gmail.com**
 
-- ⚡ Fun fact **Introvert**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamtalha118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtalha118" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/talha-khadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha-khadim" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19263841/talha-khadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19263841/talha-khadim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19263841/talha-khadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19263841/talha-khadim" height="30" width="40" /></a>
 <a href="https://fb.com/talha.khadim.118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talha.khadim.118" height="30" width="40" /></a>
 </p>
 
